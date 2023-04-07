@@ -1,4 +1,4 @@
-**Usao Bot**
+**Usagi Bot**
 
 某エンジョイゲームサーバー用の便利Bot
 
